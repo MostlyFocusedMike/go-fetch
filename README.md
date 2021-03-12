@@ -1,7 +1,7 @@
 # Go Fetch!
 ## Play fetch and find some A+ pups
 
-Take an api that returns a random dog picture along with a built in function that returns a random name, and create a toy app that lets you save your favorite pics.
+Take an api that returns a random dog picture along with a built in function that returns a random name, and create an app that lets you save your favorite pics.
 You should present your user with a randomly generated dog pic and name with the click of a button. The user can then either save that dog to their favorites or load another dog. Dogs saved in favorites should persist on the screen. Below is a simple example of what you could create.
 
 Heres is an example of what you might create:
@@ -10,10 +10,11 @@ Heres is an example of what you might create:
 ---------------------------------------------
 
 # Requirements
-- The page should load with a single, named dog
+- The page should load with a single, named dog already visible
 - There should be a button that lets users load a new, named dog
 - There should be a button that lets users save the given dog to their list of favorites
 - When saved, the name and photo of the dog must remain the same
+- The list of favorites stays visible on the page
 
 ## Stretch goals
 - *Every dog is one of a kind*
